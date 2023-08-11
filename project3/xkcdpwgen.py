@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Homework 3: Password Generator
 Course: CY2550
