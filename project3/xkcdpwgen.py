@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import argparse
+import random
 """
 Homework 3: Password Generator
 Course: CY2550
@@ -7,10 +9,6 @@ Author: Natalie Hammel
 Start Date: 8/9/23
 Finish Date: 8/11/23 "
 """
-
-# import packages
-import argparse
-import random
 
 # create universal variable of symbol list
 SYMBOLS = ['%', '$', '#', '@', '!', '+', '*', '^', '~', ':', ';', '<', '>']
